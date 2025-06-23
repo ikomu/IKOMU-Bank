@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=rDLJMjJr5BQ&list=LL&index=30
 
 *Описание: Всё что видете, оно работоспособно.*
 
-### 3. Экран отчетов
+### 3. Экран Админ-панель
 ![Экран отчетов](https://github.com/ikomu/IKOMU-Bank/blob/main/git%20hub%203.PNG)  
 
 *Описание: Это админ панель, через неё можно заходить и менять файлы или
